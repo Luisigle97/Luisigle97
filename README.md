@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Website-lonetsolutions.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lonetsolutions.com/)
 [![Email](https://img.shields.io/badge/Email-contacto@lonetsolutions.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@lonetsolutions.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20301%207686592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573017686592)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57%20301%207346406-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573017686592)
 
 *Arquitectura de software, ingeniería web de alto rendimiento y soluciones digitales escalables.*
 
